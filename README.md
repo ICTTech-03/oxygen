@@ -15,7 +15,8 @@ Commands may export the following properties (not optional if not specified):
 Add a command by a pull request.
 
 # Installation
-Ensure you have nodejs and npm on your machine. I may have acidentally not gitignored the node_modules but I don't know what that means. Run `npm i` anyway.
+Ensure you have nodejs and npm on your machine. I may have acidentally not gitignored the node_modules but I don't know what that means. Run `npm i` anyway. After installing node_modules, please run `npm i sqlite3`
+
 In the root of the project add a `token.json` file with your bot token in it, looking something like this:
 ```json
 {
