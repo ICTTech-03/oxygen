@@ -1,6 +1,8 @@
 # Basic Bot
 A basic bot I made because I had nothing better to do.
 
+# Note for how constant djs constantly updates themselves, a few things might be depreciated so you'll have to make a few changes
+
 # Adding commands
 All commands are in a folder determining their classification. Commands in the `sudo` folder are not indexed or shown by the `help` command.
 
